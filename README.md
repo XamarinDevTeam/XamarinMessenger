@@ -16,7 +16,7 @@ Messenger Bot Based On Love
 # Installation
 
 ```sh
-# Let's install the bot.
+# Let's Install The Bot.
 cd $HOME
 git clone https://github.com/XamarinDevTeam/XamarinMessenger.git
 cd XamarinMessenger
@@ -26,13 +26,13 @@ chmod +x Xamarin
 # End ;)
 ```
 ### One Command
-To install everything in one command, use:
+To Install Everything In One Command, Use:
 ```sh
 cd $HOME && git clone https://github.com/XamarinDevTeam/XamarinMessenger.git && cd XamarinMessenger && chmod +x Xamarin && ./Xamarin Install && ./Xamarin Run
 ```
 
 ### Auto Run
-To install everything in one command, use:
+To Auto Run Bot, Use:
 ```sh
 screen -dmS XDMessenger ./Xamarin Auto
 ```

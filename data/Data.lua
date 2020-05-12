@@ -8,7 +8,7 @@ XamarinName = "Xamarin Messanger" -- Bot Name
 XamarinTag = "#Xamarin_Messanger" -- Bot Hashtag
 XamarinPName = "زامارین مسنجر" -- Bot Persian Name
 XamarinPTag = "#زامارین_مسنجر" -- Bot Persian Hashtag
-XamarinRedis = 0 -- Redis Channel ==> redis:select(XamarinRedis) -- If you dont no this what does work dont change it
+XamarinRedis = 0 -- Redis Channel ==> redis:select(XamarinRedis) -- If you don't know what this does, don't change it
 ApiToken = "TOKEN" -- Bot Token
 ApiId = 000000000  -- Bot Id
 StPm = {"➟ ", "➥ ", "➸ "} -- Message Start Symbol
